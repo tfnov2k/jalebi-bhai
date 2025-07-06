@@ -1,0 +1,46 @@
+hi bhai
+
+ bol bhai "Jalebi restaurant mein apka swagat hain!";
+
+ bol bhai "Jalebi ka sankhya ka dhyan karen!";
+
+  bhai ye hai jalebi = 5;
+
+  bhai ye hai meetha = sahi;
+
+  bhai ye hai namkeen = galat;
+
+  bhai ye hai khatta = nalla;
+
+  agar bhai (namkeen) {
+
+        bol bhai "Jalebi namkeen hai";
+
+  } nahi to bhai (khatta) {
+
+        bol bhai "Jalebi khatta hai";
+
+  } warna bhai {
+
+        bol bhai "Jalebi meetha hai";
+
+  }
+
+  jab tak bhai (jalebi < 10) {
+
+        bol bhai "Jalebi ka sankhya:", jalebi, ", Jalebi kafi nahi hai";
+        
+        jalebi += 1;
+  }
+
+  jab tak bhai (jalebi >= 10) {
+        bol bhai "Jalebi ka sankhya:", jalebi, ", Jalebi kafi hai";
+        jalebi += 1;
+
+        agar bhai (jalebi > 20) {
+            bol bhai "Jalebi bahut zyada hai";
+            bas kar bhai;
+        }
+  }
+
+bye bhai 
